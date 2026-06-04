@@ -57,16 +57,6 @@ Solve business problems, not just coding problems.
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jay-Prajapati-IT&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Prajapati-IT&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ### Contribution Graph
 
 <p align="center">
