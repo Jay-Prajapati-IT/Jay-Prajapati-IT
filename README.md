@@ -1,117 +1,297 @@
-# Hi, I'm Jay Prajapati 👋
+# <div align="center">
 
-Backend Developer focused on building scalable business applications, APIs, and multi-tenant systems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Jay+Prajapati;Backend+Developer;Building+Production+Systems;Multi-Tenant+Architecture+Specialist;Next.js+%7C+TypeScript+%7C+MongoDB" />
 
-## 🚀 About Me
-
-- 💼 Backend Developer with professional experience
-- 🏢 Built production HRMS and Healthcare Recruitment CRM systems
-- ⚡ Specialized in Next.js, TypeScript, Node.js, and MongoDB
-- 🔐 Experienced with JWT Authentication & RBAC
-- 🏗️ Multi-Tenant Architecture Enthusiast
-- 🤖 AI-assisted developer using Cursor & modern AI workflows
-- 📍 Ahmedabad, Gujarat, India
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-### Backend
+### Backend Developer • API Engineer • SaaS Builder
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+Ahmedabad, Gujarat, India
 
-### Database
+<a href="mailto:jay.prajapati.gj@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
+</a>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<a href="https://linkedin.com/in/jay-prajapati-it">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-# 🏗 Featured Projects
+# whoami
+
+```bash
+$ whoami
+
+Jay Prajapati
+
+Backend Developer focused on building scalable
+business applications and enterprise systems.
+
+Current Focus:
+- Multi-Tenant SaaS Applications
+- REST API Architecture
+- MongoDB Optimization
+- RBAC & Security
+- Business Process Automation
+
+Experience:
+- HRMS Platforms
+- Healthcare Recruitment CRM
+- Payroll Systems
+- Dashboard Analytics
+- Enterprise Backend Development
+```
+
+---
+
+# Engineering Philosophy
+
+```javascript
+const engineer = {
+    name: "Jay Prajapati",
+
+    philosophy: [
+        "Build software people actually use",
+        "Security is a feature",
+        "Performance matters",
+        "Keep systems maintainable",
+        "Automate repetitive work"
+    ],
+
+    currentGoal:
+        "Building scalable backend systems capable of handling real business operations."
+}
+```
+
+---
+
+# Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,mongodb,git,github,vscode,postman" />
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# Professional Experience
+
+## Jr. Software Developer
+
+### Doublene Technology
+
+Worked on production-grade enterprise applications involving:
+
+* Dynamic REST API Development
+* Multi-Tenant Architectures
+* MongoDB Aggregation Pipelines
+* JWT Authentication
+* RBAC Systems
+* Payroll Logic Engines
+* Employee Attendance Systems
+* Dashboard Analytics
+
+---
+
+# Featured Projects
+
+---
 
 ## Human Resource Management System (HRMS)
 
-Enterprise-grade HRMS platform featuring:
+Enterprise-grade backend platform.
 
-- Employee Management
-- Attendance Tracking
-- Payroll Calculation Engine
-- Role-Based Access Control
-- Dynamic Reporting
-- CSV & PDF Export Systems
+### Key Features
 
-### Core Features
+✔ Employee Management
 
-✅ Multi-Tenant Architecture
+✔ Attendance Tracking
 
-✅ JWT Authentication
+✔ Payroll Processing
 
-✅ Dynamic REST APIs
+✔ Role-Based Access Control
 
-✅ Analytics Dashboard
+✔ Dynamic Reporting
 
-✅ Employee Lifecycle Management
+✔ CSV Export
+
+✔ PDF Generation
+
+✔ Dashboard Analytics
+
+### Tech Stack
+
+```text
+Next.js
+TypeScript
+MongoDB
+JWT
+RBAC
+Aggregation Pipelines
+```
+
+### Architecture
+
+```text
+Employee
+   │
+   ▼
+REST API Layer
+   │
+   ▼
+Business Logic Layer
+   │
+   ▼
+MongoDB
+   │
+   ▼
+Analytics + Reports
+```
 
 ---
 
 ## Healthcare Recruitment CRM
 
-Production-ready CRM platform for healthcare staffing operations.
+Production-ready healthcare recruitment platform.
 
-### Highlights
+### Features
 
-- Recruiter Management
-- Candidate Tracking
-- Location-Based Matching
-- Distance Calculations
-- Advanced Filtering
-- Real-Time Dashboards
+✔ Recruiter Management
+
+✔ Candidate Tracking
+
+✔ Distance Calculations
+
+✔ Location-Based Search
+
+✔ Dashboard Metrics
+
+✔ Advanced Filtering
+
+✔ Multi-Tenant Access
+
+### Challenges Solved
+
+* High-volume data filtering
+* Cross-tenant isolation
+* Optimized aggregation queries
+* Real-time dashboard reporting
 
 ---
 
-# 📈 What I Like Building
+# Current Learning Roadmap
 
 ```text
-✔ Enterprise Software
-✔ HRMS Platforms
-✔ CRM Systems
-✔ REST APIs
-✔ Authentication Systems
-✔ Multi-Tenant Applications
-✔ Dashboard Backends
-✔ Business Automation Tools
+System Design
+Advanced MongoDB
+Backend Scalability
+Distributed Systems
+SaaS Architecture
+Performance Engineering
 ```
 
 ---
 
-# 🎯 Current Focus
+# What I Enjoy Building
 
-- Advanced Backend Architecture
-- System Design
-- Performance Optimization
-- Scalable SaaS Applications
-- AI-Assisted Development Workflows
-
----
-
-# 🤝 Let's Connect
-
-LinkedIn:
-https://linkedin.com/in/jay-prajapati-it
-
-Email:
-jay.prajapati.gj@gmail.com
-
-Location:
-Ahmedabad, Gujarat, India
+```text
+Enterprise Applications
+Human Resource Systems
+Healthcare Platforms
+Recruitment CRMs
+Admin Dashboards
+Role-Based Systems
+Automation Tools
+Business Workflows
+```
 
 ---
 
-> "I don't just write APIs. I build systems that businesses depend on."
+# Repository Highlights
+
+| Project                | Description                          |
+| ---------------------- | ------------------------------------ |
+| HRMS Backend           | Enterprise HRMS backend architecture |
+| Healthcare CRM         | Multi-tenant recruitment CRM         |
+| MongoDB Aggregations   | Real-world aggregation examples      |
+| API Architecture Notes | Backend design patterns              |
+| SaaS Boilerplate       | Reusable backend foundations         |
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+# Contribution Snake
+
+> Enable GitHub Actions later and replace YOUR_USERNAME
+
+```md
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# Open To
+
+```text
+Backend Development
+API Engineering
+SaaS Platforms
+Remote Opportunities
+Startup Teams
+Product Engineering
+```
+
+---
+
+# Contact
+
+```bash
+Email      : jay.prajapati.gj@gmail.com
+LinkedIn   : linkedin.com/in/jay-prajapati-it
+Location   : Ahmedabad, Gujarat, India
+```
+
+---
+
+<div align="center">
+
+### Building software that solves business problems.
+
+</div>
