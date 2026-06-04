@@ -60,9 +60,9 @@ Solve business problems, not just coding problems.
 ### GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jay-Prajapati-IT&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Prajapati-IT&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ Solve business problems, not just coding problems.
 ### Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Prajapati-IT&theme=github-compact&hide_border=true" />
 </p>
 
 ---
